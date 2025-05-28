@@ -1,3 +1,6 @@
 [submodule "fasm2"]
 	path = fasm2
 	url = https://github.com/tgrysztar/fasm2.git
+[submodule "fasm"]
+	path = fasm
+	url = https://github.com/tgrysztar/fasm.git
